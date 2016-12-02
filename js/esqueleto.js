@@ -1,0 +1,11 @@
+$(document).ready(function(){
+	$('#formacion').on('click',function(){
+		$('#container-formacion').show();
+	});
+	$('#empleo').on('click',function(){
+		$('#container-empleo').show();
+	});
+	$('#comunidad').on('click',function(){
+		$('#container-comunidad').show();
+	});
+});

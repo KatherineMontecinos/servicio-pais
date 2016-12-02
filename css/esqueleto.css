@@ -1,0 +1,93 @@
+
+#formacion-divinitial{
+	background-image: url(../img/formacion.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	font-family: 'Great Vibes', cursive;
+	color: white;
+	font-size: 50px;
+}
+#bckg-formacion, #bckg-empleo, #bckg-comunidad{
+	background-color: rgba(0, 0, 0, 0.5);
+	padding: 120px;
+}
+#empleo-divinitial{
+	background-image: url(../img/empleo.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: top;
+	font-family: 'Great Vibes', cursive;
+	color: white;
+	font-size: 30px;
+}
+#comunidad-divinitial{
+	background-image: url(../img/comunidad2.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	font-family: 'Great Vibes', cursive;
+	color: white;
+	font-size: 30px;
+}
+#menu-sections ul li{
+	text-decoration: none;
+	text-align: center;
+	display: inline;
+	list-style: none;
+}
+
+.border-cerleste{
+	border-top: 4px solid #00B2D3;
+}
+.border-verdeagua{
+	border-top: 4px solid #559A16;
+}
+.border-naranjo{
+	border-top: 4px solid #ff9100;
+}
+.border-amarillo{
+	border-top: 4px solid #ffd200;
+}
+.border-azul{
+	border-top: 4px solid#284490;
+}
+.border-rojo{
+	border-top: 4px solid #F83838;
+}
+.border-morado{
+	border-top: 4px solid #AC087A;
+}
+.border-moradodark{
+	border-top: 4px solid #63006A;
+}
+
+
+
+#container-banner{
+	border-bottom: 4px solid #00B2D3;
+}
+#container-objetivos{
+	border-bottom: 4px solid #559A16;
+}
+#redes{
+	border-bottom: 4px solid #ff9100;
+}
+#formacion{
+	border-bottom: 4px solid #ffd200;
+}
+#empleo{
+	border-bottom: 4px solid#284490;
+}
+#comunidad{
+	border-bottom: 4px solid #F83838;
+}
+#testimonios{
+	border-bottom: 4px solid #AC087A;
+}
+#formulario-footer{
+	border-bottom: 4px solid #63006A;
+}
+#container-formacion, #container-empleo, #container-comunidad{
+	display: none;
+}
